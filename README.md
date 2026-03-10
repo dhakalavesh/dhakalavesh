@@ -1,5 +1,3 @@
-# Hi 👋 I'm Avesh Dhakal
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dhakalavesh)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhakalavesh)
