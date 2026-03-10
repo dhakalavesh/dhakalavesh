@@ -1,7 +1,17 @@
-## Hi there 👋, This is Avesh Dhakal
+# Hi 👋 I'm Avesh Dhakal
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhakalavesh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dhakalavesh)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalavesh&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dhakalavesh)
+
+## Stack
+- Azure
+- .NET
+- GitHub Actions
+- Kubernetes
+- Terraform
 <!--
 **dhakalavesh/dhakalavesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
