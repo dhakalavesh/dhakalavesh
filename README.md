@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhakalavesh)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalavesh&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhakalavesh)
 
 ## Stack
