@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, This is Avesh Dhakal
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 <!--
 **dhakalavesh/dhakalavesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
